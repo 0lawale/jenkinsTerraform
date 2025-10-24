@@ -1,3 +1,3 @@
 output "public_instance_ip" {
-  value = module.ec2_instance.ip_public_instance
+  value = module.ec2.ip_public_instance
 }

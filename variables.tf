@@ -34,4 +34,7 @@ variable "jenkins_sg_name" {
   description = "the name of the security group"
   type = string
 }
-
+variable "region" {
+  description = "the region of the data-center"
+  type = string
+}
