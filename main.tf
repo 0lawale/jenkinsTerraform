@@ -11,6 +11,7 @@ module "ec2" {
   server_name = var.server_name
 }
 
+
 module "network" {
   source = "./modules/network"
   vpc_cidr = var.vpc_cidr
