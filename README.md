@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone git@github.com:AY0-WEB/jenkinsTerraform.git
+git clone git@github.com:0lawale/jenkinsTerraform.git
 cd jenkinsTerraform
 
 # initialize terraform
